@@ -1,1 +1,1 @@
-# Classification-de-critiques-de-films regression logistic
+# Classification-de-critiques-de-films régression logistique
